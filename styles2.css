@@ -1,0 +1,70 @@
+body {
+  font-size: 16px;
+  font-family: 'Karla', sans-serif;
+}
+
+h1 {
+  color: hsl(179, 62%, 43%);
+  font-weight: 700;
+}
+
+h2 {
+  color: white;
+  font-weight: 700;
+}
+
+p {
+  color: hsl(204, 43%, 93%);
+  font-weight: 400;
+}
+
+.main {
+  color: hsl(71, 73%, 54%);
+}
+
+.top {
+  padding: 50px;
+}
+
+.subscription {
+  background-color: hsl(179, 62%, 43%);
+  width: 15%;
+  height: 260px;
+  padding: 30px;
+}
+
+.why_us {
+  background-color: hsl(71, 73%, 54%);
+  width: 15%;
+  height: 260px;
+  padding: 30px;
+  position: relative;
+  left: 18.1%;
+  bottom: 320px;
+}
+
+.attribution {
+  color: hsl(218, 22%, 67%);
+  position: relative;
+  bottom: 300px;
+  padding-left: 50px;
+}
+
+.dollar {
+  color: white;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.button {
+  background-color: hsl(71, 73%, 54%);
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 15px 100px;
+  color: white;
+  box-shadow: 3px 3px 8px  #008b8b;
+}
+
+div {
+  border-radius: 5px;
+}
