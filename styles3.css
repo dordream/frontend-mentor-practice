@@ -1,0 +1,184 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.image1 {
+  width: 310px;
+  position: absolute;
+  left: 900px;
+  bottom: 500px;
+}
+
+.image2 {
+  width: 310px;
+  position: absolute;
+  left: 900px;
+  bottom: 20px;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  color: hsl(243, 87%, 12%);
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+a {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.top_paragraphs {
+  color: hsl(243, 87%, 12%);
+}
+
+.logo {
+  width: 100px;
+  padding: 10px;
+}
+
+.logo2 {
+  width: 100px;
+  padding: 10px;
+  filter: invert(100%);
+}
+
+.content {
+  float: right;
+  padding: 10px;
+  margin: 10px;
+}
+
+.header {
+  padding-bottom: 50px;
+}
+
+.div1 {
+  width: 40%;
+  padding: 10px;
+  margin-bottom: 150px;
+}
+
+.div2 {
+  width: 40%;
+  padding: 10px;
+  margin-bottom: 70px;
+}
+
+.background {
+  background: url("images/bg-curve-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 0;
+  padding-bottom: 70px;
+}
+
+.div3 {
+  background-color: hsl(238, 22%, 44%);
+  color: white;
+  padding: 40px;
+}
+
+.footer {
+  background-color: hsl(243, 87%, 12%);
+  color: white;
+  padding: 40px;
+}
+
+.testimonial {
+  background-color: white;
+  width: 60%;
+  margin: 10px;
+  padding: 30px;
+  height: 190px;
+}
+
+.tim {
+  border-radius: 80px;
+  width: 50px;
+  position: relative;
+  bottom: 50px;
+}
+
+.name {
+  font-size: 10px;
+  position: relative;
+  left: 60px;
+}
+
+.fylo {
+  color: hsl(170, 45%, 43%);
+  text-decoration: underline;
+}
+
+.button {
+  text-decoration: none;
+  border: 1px;
+  border-color: black;
+  border-radius: 3px;
+  padding: 10px 60px;
+  background-color: hsl(224, 93%, 58%);
+  color: white;
+  margin-left: 10px;
+}
+
+#email2 {
+  color: hsl(0, 0%, 75%);
+  padding: 10px 20px 10px 10px;
+  width: 300px;
+  position: relative;
+  left: 350px;
+  bottom: 50px;
+}
+
+#email1 {
+  color: hsl(0, 0%, 75%);
+  padding: 10px 20px 10px 10px;
+  width: 300px;
+}
+
+.email {
+  position: relative;
+  left: 500px;
+  bottom: 30px;
+}
+
+.phone {
+  position: relative;
+  left: 50px;
+  bottom: 40px;
+}
+
+.table {
+  width: 100%;
+}
+
+tr {
+  height: 78px;
+}
+
+.links {
+  color: white;
+}
+
+.fa {
+  border: 1px;
+  border-color: white;
+  color: white;
+  text-align: center;
+  border-radius: 50%;
+  border-style: solid;
+  padding: 10px;
+}
+
+.attribution {
+  color: white;
+  font-size: 10px;
+  float: right;
+}
