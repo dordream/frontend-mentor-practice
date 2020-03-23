@@ -72,7 +72,7 @@ a {
 }
 
 .background {
-  background: url("images/bg-curve-desktop.svg");
+  background-image: url("bg-curve-desktop.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 0;
