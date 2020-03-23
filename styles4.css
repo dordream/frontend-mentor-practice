@@ -1,7 +1,7 @@
 body{
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  background: url("bg-desktop.svg");
+  background: url("https://raw.githubusercontent.com/dordream/frontend-mentor-practice/master/bg-desktop.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: hsl(257, 40%, 49%);
