@@ -1,0 +1,146 @@
+body {
+  font-size: 18px;
+  font-family: 'Bai Jamjuree', sans-serif;
+}
+
+p {
+  font-weight: 400;
+  color: hsl(201, 11%, 66%);
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1)), url("images/bg-header-desktop.png");
+  background-size: 100% 100%;
+  text-align: center;
+  padding: 100px 100px 25px;
+}
+
+.div1 {
+  width: 30%;
+  text-align: center;
+  margin: auto;
+}
+
+.div2 {
+  margin: auto;
+  text-align: center;
+  width: 30%;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+.div3 {
+  float: right;
+  position: relative;
+  right: 450px;
+  width: 20%;
+}
+
+.div4 {
+  text-align: center;
+  margin: 100px auto;
+  width: 30%;
+
+}
+
+.div5 {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+.div6 {
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.div7 {
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.footer {
+  background-color: #FAFAFA;
+  padding: 40px 250px;
+  padding-bottom: 0;
+  color: hsl(210, 10%, 33%);
+
+
+}
+
+.ios_download {
+  background-color: hsl(171, 66%, 44%);
+  text-decoration: none;
+  color: white;
+  border-radius: 25px;
+  padding: 15px 20px;
+  margin: 7px;
+  box-shadow: 2px 2px 2px #008b8b;
+}
+
+.ios_download:hover, .mac_download:hover{
+    opacity: 0.5;
+}
+
+.mac_download {
+  background-color: hsl(233, 100%, 69%);
+  text-decoration: none;
+  color: white;
+  border-radius: 25px;
+  padding: 15px 20px;
+  margin: 7px;
+  box-shadow: 2px 2px 2px #00008b;
+}
+
+.download_buttons {
+  margin: 50px;
+}
+
+.computer {
+  width: 30%;
+  padding-left: 400px;
+}
+
+.devices {
+  position: relative;
+  left: 30%;
+  width: 40%;
+}
+
+.table1 {
+  width: 50%;
+  position: relative;
+  left: 22%;
+  top: 50px;
+}
+
+.table2 {
+  border-spacing: 120px 20px;
+  position: relative;
+  left: 100px;
+  bottom: 80px;
+}
+
+.social-media {
+  float: right;
+  position: relative;
+  bottom: 150px;
+}
+
+.links {
+  color: hsl(210, 10%, 33%);
+}
+
+.links:hover {
+  background-color: hsl(171, 66%, 44%);
+}
