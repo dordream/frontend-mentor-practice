@@ -9,6 +9,7 @@
   <title>Frontend Mentor | Index</title>
 </head>
 <body>
+<h1>Index</h1>
   <ol>
   <li>
     <a href="four_card_feature.html">Four Card Feature</a>
