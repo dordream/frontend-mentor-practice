@@ -1,0 +1,237 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  background-color: hsl(218, 28%, 13%);
+  color: hsl(0, 0%, 100%);
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+.header {
+  background-color: hsl(217, 28%, 15%);
+  padding-top: 50px;
+}
+
+.div1 {
+  background: url("images/bg-curvy-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: bottom;
+}
+
+.div2 {
+  width: 20%;
+  text-align: center;
+  padding: 50px;
+  position: relative;
+  height: 700px;
+}
+
+.div3 {
+  float: right;
+  margin: auto;
+  width: 30%;
+  padding: 100px;
+  padding-right: 300px;
+}
+
+.div4 {
+  padding: 100px;
+  font-size: 14px;
+  height: 600px;
+}
+
+.div5 {
+  text-align: center;
+  margin: auto;
+  background-color: hsl(217, 28%, 15%);
+  width: 50%;
+  padding: 50px;
+  position: relative;
+  bottom: 250px;
+}
+
+.footer {
+  background-color: hsl(216, 53%, 9%);
+  padding: 100px;
+
+}
+
+.end {
+  position: relative;
+  bottom: 200px;
+}
+
+.content {
+  float: right;
+  padding: 50px;
+  margin: 10px;
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+}
+
+.logo {
+  width: 100px;
+  padding: 50px;
+}
+
+.first-photo {
+  width: 30%;
+  padding-left: 30%;
+
+}
+
+.button {
+  text-decoration: none;
+  border: 1px;
+  border-radius: 20px;
+  padding: 10px 60px;
+  background-color: hsl(198, 60%, 50%);
+  color: hsl(0, 0%, 100%);
+  margin-left: 10px;
+}
+
+.text {
+  text-align: center;
+  margin: auto;
+  width: 30%;
+  padding: 100px;
+}
+
+.access {
+  position: relative;
+  left: 120%;
+}
+
+.security {
+  position: relative;
+  left: 250%;
+  bottom: 240px;
+}
+
+.collaboration {
+  position: relative;
+  left: 120%;
+  bottom: 100px;
+}
+
+.anyFile {
+  position: relative;
+  left: 250%;
+  bottom: 320px;
+}
+
+.fylo {
+  color: hsl(170, 45%, 43%);
+  text-decoration: underline;
+}
+
+.testimonial1 {
+  background-color: hsl(219, 30%, 18%);
+  width: 25%;
+  margin: 10px;
+  padding: 30px;
+  height: 190px;
+  position: relative;
+  bottom: 20px;
+}
+
+.testimonial2 {
+  background-color: hsl(219, 30%, 18%);
+  width: 25%;
+  margin: 10px;
+  padding: 30px;
+  height: 190px;
+  position: relative;
+  bottom: 280px;
+  left: 600px;
+}
+
+.testimonial3 {
+  background-color: hsl(219, 30%, 18%);
+  width: 25%;
+  margin: 10px;
+  padding: 30px;
+  height: 190px;
+  position: relative;
+  left: 1200px;
+  bottom: 540px;
+}
+
+.quotes {
+  color: hsl(0, 0%, 100%);
+}
+
+.photos {
+  border-radius: 80px;
+  width: 50px;
+  position: relative;
+  bottom: 50px;
+}
+
+.name {
+  font-size: 10px;
+  position: relative;
+  left: 60px;
+}
+
+#email2 {
+  color: hsl(0, 0%, 75%);
+  padding: 10px 20px 10px 10px;
+  width: 300px;
+  border-radius: 30px;
+}
+
+#last {
+  width: 30%;
+  position: relative;
+  left: 30px;
+  bottom: 40px;
+}
+
+.table {
+  float: right;
+  table-layout: auto;
+  width: 60%;
+  position: relative;
+  bottom: 100px;
+}
+
+.phone {
+  position: relative;
+  left: 50px;
+  bottom: 40px;
+}
+
+.links {
+  color: white;
+  text-decoration: none;
+  position: relative;
+  bottom: 40px;
+}
+
+.fa {
+  border: 1px;
+  border-color: white;
+  color: white;
+  text-align: center;
+  border-radius: 50%;
+  border-style: solid;
+  padding: 10px;
+  text-decoration: none;
+  position: relative;
+  bottom: 40px;
+}
+
+td {
+  padding: 15px;
+}
+
+.attribution {
+  position: relative;
+  top: 100px;
+}
